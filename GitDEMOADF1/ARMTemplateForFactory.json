@@ -19,7 +19,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Wait1",
+						"name": "Wait12345",
 						"type": "Wait",
 						"dependsOn": [],
 						"userProperties": [],
