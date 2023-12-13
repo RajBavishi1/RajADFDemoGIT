@@ -1,0 +1,9 @@
+{
+	"name": "GitDEMOADF1",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3147c610-ef7e-41b8-b859-031ca5f3ed3b",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}
